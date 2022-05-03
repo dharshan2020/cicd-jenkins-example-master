@@ -7,4 +7,3 @@
         cf push -f <path_to_manifest_yml>
 
 
-test
